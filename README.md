@@ -1,9 +1,9 @@
-## Oi, sou o Gabriel, programador back-end!
+## Oi, sou o Gabriel, desenvolvedor back-end!
 
 <div align="center">
   <a href="https://github.com/GabIkejima">
-  <img height="42%" src="https://github-readme-stats.vercel.app/api?username=GabIkejima&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabIkejima&layout=compact&langs_count=7&theme=calm"/>
+  <img height="45%" src="https://github-readme-stats.vercel.app/api?username=GabIkejima&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabIkejima&layout=compact&langs_count=7&theme=calm"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -21,6 +21,8 @@
   <a href="https://www.linkedin.com/in/gabrielikejima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/gab_ike" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://wa.me/5511985330163" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  
+![Snake animation](https://github.com/GabIkejima/GabIkejima/blob/output/github-contribution-grid-snake.svg)
   
 </div>
   
