@@ -10,7 +10,7 @@
   <img align="center" alt="Gab-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Gab-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Gab-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Gab-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/957114061961715742/1046768041725263902/unknown.png">
+  <img align="right" alt="Gab-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/957114061961715742/1046770660397027328/unknown.png">
 </div>
   
   ##
