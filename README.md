@@ -1,8 +1,9 @@
 ## Oi, sou o Gabriel, desenvolvedor back-end!
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/GabIkejima">
-  <img height="45%" src="https://github-readme-stats.vercel.app/api?username=GabIkejima&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=GabIkejima&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img alt="Gab-pic" height="175em" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/957114061961715742/1046770660397027328/unknown.png">
 </div>
   
 <div style="display: inline_block"><br>
@@ -10,7 +11,7 @@
   <img align="center" alt="Gab-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Gab-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Gab-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Gab-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/957114061961715742/1046770660397027328/unknown.png">
+
 </div>
   
   ##
