@@ -3,7 +3,7 @@
 <div align="left">
   <a href="https://github.com/GabIkejima">
   <img height="175em" src="https://github-readme-stats-zuxe-gabikejima.vercel.app/api?username=GabIkejima&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img alt="Gab-pic" height="175em" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/957114061961715742/1046770660397027328/unknown.png">
+  <img alt="Gab-pic" height="175em" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/850914965824077844/1075163494284013578/logophotoblack.png">
 </div>
   
 <div style="display: inline_block"><br>
