@@ -2,8 +2,10 @@
 
 <div align="left">
   <a href="https://github.com/GabIkejima">
-  <img height="175em" src="https://github-readme-stats-zuxe-gabikejima.vercel.app/api?username=GabIkejima&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img alt="Gab-pic" height="175em" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/850914965824077844/1075163494284013578/logophotoblack.png">
+      <img alt="Gab-pic" height="140em" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/850914965824077844/1075163494284013578/logophotoblack.png">
+     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=GabIkejima&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabIkejima&layout=compact&langs_count=7&theme=calm"/>
+
 </div>
   
 <div style="display: inline_block"><br>
