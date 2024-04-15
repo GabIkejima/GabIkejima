@@ -6,7 +6,7 @@
 </p>
 <div align="left">
   <a href="https://github.com/GabIkejima">
-     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=GabIkejima&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=GabIkejima&show_icons=true&theme=calm&include_all_commits=true&hide=stars&count_private=true"/>
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabIkejima&layout=compact&langs_count=7&theme=calm"/>
 
 </div>
