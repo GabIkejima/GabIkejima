@@ -1,6 +1,7 @@
-<h1 align="left">Oi, sou o Gabriel, desenvolvedor back-end/Power Platform!💻</h1>
+<h1 align="left">Oi, sou o Gabriel, RPA e desenvolvedor back-end!💻</h1>
 <p align="justify">
-  Hello world! Sou um desenvolvedor back-end/PowerPlatform! Possuo conhecimento em Python, Java, C e atualmente desenvolvo soluções com as ferramentas PowerPlatform (flows integrados e seguindo os padrões de qualidade e organização do PowerAutomate, apps responsivos do PowerApps, Sistemas completos do SharePoint Online).
+  Hello world, muito prazer, bem vindo(a) ao meu cantinho! 
+  <br>Sou um desenvolvedor back-end/PowerPlatform! Possuo conhecimento em Python, Java, C++ e atualmente desenvolvo soluções com as ferramentas PowerPlatform (flows integrados e seguindo os padrões de qualidade e organização do PowerAutomate, apps responsivos do PowerApps, Sistemas completos do SharePoint Online).
 <br>📚 Meus estudos atualmente estão focados na Cloud Azure e no constante aperfeiçoamento da minha stack.
 <br>🎓 Atualmente estou no terceiro semestre de Análise e desenvolvimento de sistemas.
 </p>
@@ -21,6 +22,34 @@
   <img align="center" alt="Gab-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Gab-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
+<h3>Principais projetos ⭐</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+     <td><code><a href="https://github.com/GabIkejima/sistema-bancario-python-dio">Sistema Bancário</a></code></td>
+      <td>Sistema de controle bancário utilizando conceitos de programação orientada a objetos</td>
+    </tr>
+    <tr>
+     <td><code><a href="https://github.com/GabIkejima/python-api-anime-decision-maker">API Animes</a></code></td>
+      <td>Projeto para geração de animes através do consumo de uma API, utilizando também práticas de ErrorHandle e código limpo</td>
+    </tr>
+    <tr>
+     <td><code><a href="https://github.com/GabIkejima/dio-orange-tech">Orange Tech</a></code></td>
+      <td>Snippets das resoluções de desafios do BootCamp Orange Tech, utilizando Java, orientação a objetos, código limpo</td>
+    </tr>
+    <tr>
+     <td><code><a href="https://github.com/GabIkejima/atividade-db-flaskrestful">API FlaskRestFul com SQLAlchemy</a></code></td>
+      <td>API FlaskRestful que utiliza o SQLAlchemy para persistência dos dados.</td>
+    </tr>
+    
+  </tbody>
+</table>
 </div>
  <div align="left"> 
   <h3 align="left">Connect with me</h3>
