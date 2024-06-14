@@ -14,13 +14,16 @@
 
 <div style="display: inline_block"><br>
   <h3 align="left">Stack</h3>
+  <img align="center" alt="Gab-Csharp" height="30" width="30" src="https://github.com/GabIkejima/GabIkejima/blob/main/assets/powerapp-2020-icon-1024x1024.png">
+  <img align="center" alt="Gab-Csharp" height="30" width="30" src="https://github.com/GabIkejima/GabIkejima/blob/main/assets/Microsoft_Power_Automate.svg.png">
+  <img align="center" alt="Gab-Csharp" height="30" width="30" src="https://github.com/GabIkejima/GabIkejima/blob/main/assets/Microsoft_Office_SharePoint_(2019%E2%80%93present).svg.png">
   <img align="center" alt="Gab-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gab-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Gab-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Gab-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   <img align="center" alt="Gab-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Gab-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Gab-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  
   
 <h3>Principais projetos ⭐</h3>
 <table>
