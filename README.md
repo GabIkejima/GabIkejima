@@ -1,4 +1,4 @@
-<h1 align="left">Oi, sou o Gabriel, RPA e desenvolvedor back-end!💻</h1>
+<h1 align="left">Oi, sou o Gabriel, dev low-code!💻</h1>
 <p align="justify">
   Hello world, muito prazer, bem vindo(a) ao meu cantinho! 
   <br>Sou um desenvolvedor back-end/PowerPlatform! Possuo conhecimento em Python, Java, C++ e atualmente desenvolvo soluções com as ferramentas PowerPlatform (flows integrados e seguindo os padrões de qualidade e organização do PowerAutomate, apps responsivos do PowerApps, Sistemas completos do SharePoint Online).
