@@ -1,7 +1,7 @@
 <h1 align="left">Oi, sou o Gabriel, dev low-code!💻</h1>
 <p align="justify">
   Hello world, muito prazer, bem vindo(a) ao meu cantinho! 
-  <br>Sou um desenvolvedor back-end/PowerPlatform! Possuo conhecimento em Python, Java, C++ e atualmente desenvolvo soluções com as ferramentas PowerPlatform (flows integrados e seguindo os padrões de qualidade e organização do PowerAutomate, apps responsivos do PowerApps, Sistemas completos do SharePoint Online).
+  <br>Sou um desenvolvedor low-code focado em PowerPlatform! Possuo conhecimento em Python, Java, C++ e atualmente desenvolvo soluções com as ferramentas PowerPlatform (flows integrados e seguindo os padrões de qualidade e organização do PowerAutomate, apps responsivos do PowerApps, Sistemas completos do SharePoint Online).
 <br>📚 Meus estudos atualmente estão focados na Cloud Azure e no constante aperfeiçoamento da minha stack.
 <br>🎓 Atualmente estou no terceiro semestre de Análise e desenvolvimento de sistemas.
 </p>
